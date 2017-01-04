@@ -1,0 +1,18 @@
+[
+{
+  "modid": "morpheusregistry",
+  "name": "MorpheusRegistry",
+  "description": "Register custom dimensions with Morpheus",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["smbarbour"],
+  "credits": "The ImagineScape server, for which this mod was originally intended",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+  "acceptableRemoteVersions" = "*",
+  "requiredMods" = ["Morpheus"]
+}
+]
