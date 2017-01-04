@@ -8,7 +8,7 @@ import cpw.mods.fml.common.event.FMLServerStartingEvent;
 import net.minecraftforge.common.DimensionManager;
 import net.quetzi.morpheus.Morpheus;
 
-@Mod(modid = "morpheusregistry", useMetadata = true)
+@Mod(modid = "morpheusregistry", useMetadata = true, acceptableRemoteVersions = "*")
 public class ISMorpheusRegistry
 {
     public static ModMetadata metadata;
